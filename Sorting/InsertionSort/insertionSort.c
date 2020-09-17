@@ -25,9 +25,9 @@ void InsertionSort (int* arr, int count){
 int main() {
     int arr [] = {4, 3, 2, 10, 12, 1, 5, 6};
     int count = sizeof(arr)/sizeof(int);
-    int* result = InsertionSort(arr, count);
+    InsertionSort(arr, count);
     for(int i=0;i<count;i++){
-        printf("%d ", result[i]);
+        printf("%d ", arr[i]);
     }
     return 0;
 }
