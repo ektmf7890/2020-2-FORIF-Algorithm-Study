@@ -10,4 +10,4 @@ The topics we have covered are as follows
 
 Solutions for realted algorithm problems from Baekjoon Oline Judge and Programmers are also uploaded.
 
-The blog I have used for mentoring: https://www.notion.so/Graph-629222c93d71423aa3a877887aab1d00
+The blog I have used for mentoring: https://www.notion.so/FORIF-Algorithm-Study-Notion-0d2e816333de4abdbbaced0fad7ec351
