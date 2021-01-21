@@ -1,3 +1,13 @@
-# Algorithms
-Algorithm in C &amp; Python (for 2020-2 FORIF Algorithm Study)
-# 뚝배기 깨는 게 제일 쉬웠어요
+# 2020 Fall FORIF Algorithm study
+This is a repository containing the code for algorithms studied in the study group '알뚝깨'. '알뚝깨(알고리즘 뚝배기 깨기)' has been organized to understand algorithms based on data structures and implement them in C++ or Python. 
+
+The topics we have covered are as follows
+* Basic Data Strucures: Stack, Queues etc.
+* Sorting Algorithms: Insertion sort, Merge sort, Heap Sort, Quick Sort
+* Binary Serach
+* Graph Theory: BFS, DFS, Union-find, Topological Sort, Prim's Algorithm, Kruskal's Algorithm
+* Shortest Path Algorithm: Dijkstra
+
+Solutions for realted algorithm problems from Baekjoon Oline Judge and Programmers are also uploaded.
+
+The blog I have used for mentoring: https://www.notion.so/Graph-629222c93d71423aa3a877887aab1d00
