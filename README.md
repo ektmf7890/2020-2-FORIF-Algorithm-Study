@@ -11,3 +11,8 @@ The topics we have covered are as follows
 Solutions for realted algorithm problems from Baekjoon Oline Judge and Programmers are also uploaded.
 
 The blog I have used for mentoring: https://www.notion.so/FORIF-Algorithm-Study-Notion-0d2e816333de4abdbbaced0fad7ec351
+
+### Team Projects
+* Irving's Algorithm Mathing System(C++): https://github.com/ektmf7890/2020-2FORIF_Hackathon_C-
+* Trip Advisor Recommendation System(Pyhotn): https://github.com/ektmf7890/2020-2FORIF_Hackathon_Python
+
